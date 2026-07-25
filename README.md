@@ -1,24 +1,44 @@
 <h1 align="center">Hi 👋, I'm Aditya Rajput</h1>
-<h3 align="center">Backend Developer | Python Enthusiast | Building Scalable Applications</h3>
+
+<h3 align="center">
+Backend Developer • Python Developer • Computer Science Student
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Backend+Developer;FastAPI+%7C+Python+%7C+PostgreSQL;Building+Fractose;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;Building+Scalable+Applications;Learning+Machine+Learning+%26+System+Design" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Backend Developer focused on Python
-- ⚡ Currently building **Fractose**
-- 🌱 Learning System Design & Cloud
-- 📚 Solving DSA regularly
-- 🎯 Goal: Become a Professional Backend Engineer
+I'm a Computer Science student with a strong interest in backend development and building software that solves real-world problems. I enjoy designing scalable APIs, working with databases, and developing intelligent applications powered by Python. Alongside backend engineering, I'm currently exploring machine learning and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
+
+### 🔍 TruthLens
+
+AI-powered Deepfake Detection backend focused on scalable analysis pipelines.
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `Redis` • `Background Workers`
+
+---
+
+### ✋ Holographic Interface Control (HIC)
+
+A gesture-controlled holographic image manipulation system built using computer vision and embedded hardware.
+
+**Tech Stack**
+
+`Python` • `OpenCV` • `ESP32` • `MPU6050` • `Flex Sensors`
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
 
@@ -29,7 +49,7 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 </p>
 
 ### Database
@@ -38,116 +58,49 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 </p>
 
-### DevOps
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,redis"/>
+<img src="https://skillicons.dev/icons?i=docker,redis,git,github,vscode,linux,postman"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🌱 Currently Working On
 
-## 🌟 Fractose
-
-AI-powered collaborative platform with authentication, PDF generation, cloud storage and modern backend architecture.
-
-**Tech Used**
-
-FastAPI • PostgreSQL • SQLAlchemy • Redis • Docker
-
----
-
-## 🔍 TruthLens
-
-AI-powered Deepfake Detection backend.
-
-- FastAPI
-- Redis Queue
-- Background Workers
-- AI Analysis Pipeline
+- 🤖 Machine Learning Models
+- 🐍 Backend Development using Python
+- ⚙️ FastAPI & REST APIs
+- 🗄️ Database Management Systems (DBMS)
+- 📚 Data Structures & Algorithms
+- 🏗️ Scalable Backend Architecture
 
 ---
 
-## ✋ HIC (Holographic Interface Control)
+## 🎯 Career Goal
 
-Gesture-controlled holographic image manipulation system using
-
-- ESP32
-- MPU6050
-- Flex Sensors
-- OpenCV
-- Python
+My goal is to become a Backend Software Engineer focused on building scalable, reliable, and production-ready systems while continuously learning modern backend technologies and machine learning.
 
 ---
 
-# 📊 GitHub Stats
+## 🤝 Let's Connect
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cryptobitter&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptobitter&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptobitter&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cryptobitter&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptobitter&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 💻 Currently Learning
-
-- FastAPI
-- Docker
-- Redis
-- PostgreSQL
-- System Design
-- Cloud Deployment
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/cryptobitter">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/aditya-rajput-245b65395/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Aditya_rajput0000000000/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:adityarajput.86046@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -156,12 +109,6 @@ Gesture-controlled holographic image manipulation system using
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=cryptobitter&label=Profile+Views&color=0e75b6&style=flat"/>
+<i>"Build. Learn. Improve. Repeat."</i>
 
 </p>
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
