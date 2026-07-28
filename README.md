@@ -43,6 +43,11 @@ Tech Stack: Python • FastAPI • Redis • Background Workers
 A gesture-controlled holographic image manipulation system built using computer vision and embedded hardware.
 Tech Stack: Python • OpenCV • ESP32 • MPU6050 • Flex Sensors
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cryptobitter&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ### 💻 Tech Stack
 
 **Languages**
