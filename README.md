@@ -14,7 +14,7 @@
 <br/>
 
 <!-- ========================= ABOUT ========================= -->
-## `about.sh`
+## about me
 
 > **`$ whoami`**
 >
@@ -75,7 +75,7 @@
 <br/>
 
 <!-- ========================= COMMIT SNAKE ========================= -->
-## `daily_commit_grid`
+## ` daily_commit_grid`
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 <br/>
 
 <!-- ========================= STATS ========================= -->
-## `github_stats`
+## ` github_stats`
 
 <div align="center">
 
@@ -106,11 +106,37 @@
 <br/>
 
 <!-- ========================= TECH STACK ========================= -->
-## `tech_stack`
+## ` tech_stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,cpp,c,js,react,tailwind,postgres,mysql,sqlite,redis,supabase,docker,git,github,linux,vscode,html,css&theme=dark&perline=10"/>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&theme=dark&perline=10"/>
+
+<br/><br/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,cpp,c&theme=dark&perline=10"/>
+
+<br/><br/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&theme=dark&perline=10"/>
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&theme=dark&perline=10"/>
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark&perline=10"/>
 
 </div>
 
