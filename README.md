@@ -14,7 +14,7 @@
 <br/>
 
 <!-- ========================= ABOUT ========================= -->
-## `// about.sh`
+## `about.sh`
 
 > **`$ whoami`**
 >
@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ========================= PROJECTS ========================= -->
-## `// featured_projects`
+## `featured_projects`
 
 <table>
 <tr>
@@ -75,7 +75,7 @@
 <br/>
 
 <!-- ========================= COMMIT SNAKE ========================= -->
-## `// daily_commit_grid`
+## `daily_commit_grid`
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 <br/>
 
 <!-- ========================= STATS ========================= -->
-## `// github_stats`
+## `github_stats`
 
 <div align="center">
 
@@ -106,7 +106,7 @@
 <br/>
 
 <!-- ========================= TECH STACK ========================= -->
-## `// tech_stack`
+## `tech_stack`
 
 <div align="center">
 
@@ -117,7 +117,7 @@
 <br/>
 
 <!-- ========================= CURRENTLY ========================= -->
-## `// currently_working_on`
+## `currently_working_on`
 
 ```yaml
 now:
@@ -131,7 +131,7 @@ now:
 <br/>
 
 <!-- ========================= CONNECT ========================= -->
-## `// connect`
+## `connect`
 
 <div align="center">
 
