@@ -1,205 +1,178 @@
 <!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Aditya Rajput</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9d&height=180&section=header&text=Aditya%20Rajput&fontSize=42&fontColor=00ff9d&fontAlignY=45&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20the%20making&descAlignY=65&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;FastAPI+Enthusiast;Python+Developer;AI+%26+Machine+Learning+Explorer;Building+Production+Ready+Systems;#100DaysOfLeetCode" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%24+whoami;%3E+backend_developer.py;%3E+building_AI_systems();%3E+%23100DaysOfLeetCode+in+progress...;%3E+status%3A+shipping" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityaraj0806&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=cryptobitter&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge&labelColor=0d1117"/>
 
-# 👨‍💻 About Me
+</div>
 
-I'm a **Computer Science student** passionate about **Backend Development**, **Artificial Intelligence**, and building software that solves real-world problems.
+<br/>
 
-I enjoy designing scalable APIs, working with databases, and developing intelligent applications powered by Python.
+<!-- ========================= ABOUT ========================= -->
+## `// about.sh`
 
-Currently, I'm sharpening my problem-solving skills through a structured **#100DaysOfLeetCode** challenge while exploring modern backend architectures and Machine Learning.
+```bash
+$ cat about.txt
 
----
+Computer Science student focused on Backend Development & Artificial Intelligence.
+I build scalable APIs, work across relational + vector-adjacent data, and ship
+AI-powered applications end-to-end — from model integration to deployment.
 
-# 🚀 Featured Projects
+Currently deep in a structured #100DaysOfLeetCode challenge while sharpening
+backend architecture and ML fundamentals.
 
-## 🩻 FRACTOES
+$ echo $CAREER_GOAL
+"Backend Software Engineer → AI Engineer, building production-grade systems."
+```
 
-AI-powered fracture X-ray analysis platform that detects fractures, classifies severity, and automatically generates radiology reports.
+<br/>
 
-**Tech Stack**
+<!-- ========================= PROJECTS ========================= -->
+## `// featured_projects`
 
-- FastAPI
-- SQLAlchemy
-- PostgreSQL (Supabase)
-- JWT Authentication
-- Grok API
-- ReportLab
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 **Live:** https://fractoes.onrender.com
+### 🩻 FRACTOES
+> AI-powered fracture X-ray analysis platform — detects fractures, classifies severity, and auto-generates radiology reports, cutting the gap between imaging and diagnosis.
 
-🔗 **Frontend:** https://fractoes.vercel.app
+`FastAPI` `SQLAlchemy` `PostgreSQL` `Supabase` `JWT` `Grok API` `ReportLab`
 
----
+🔗 [Live](https://fractoes.onrender.com) · [Frontend](https://fractoes.vercel.app)
 
-## ⚖️ Nayay AI
+</td>
+<td width="50%" valign="top">
 
-AI-powered legal aid platform that provides accessible legal guidance using Large Language Models.
+### ⚖️ Nayay AI
+> AI-powered legal aid platform delivering accessible legal guidance via LLMs — built to make legal information less gatekept and easier to reach.
 
-**Tech Stack**
+`FastAPI` `React` `TailwindCSS` `Groq (LLaMA 3.3 70B)` `Supabase` `OAuth`
 
-- FastAPI
-- React
-- TailwindCSS
-- Groq (LLaMA 3.3 70B)
-- Supabase
-- OAuth
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔍 TruthLens
+> AI-powered deepfake detection backend built around scalable background-processing pipelines, designed for high-throughput media analysis.
 
-## 🔍 TruthLens
+`Python` `FastAPI` `Redis` `Background Workers`
 
-AI-powered deepfake detection backend focused on scalable background processing pipelines.
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack**
+### ✋ Holographic Interface Control (HIC)
+> Gesture-controlled holographic image manipulation system, blending computer vision with embedded hardware for touchless interaction.
 
-- Python
-- FastAPI
-- Redis
-- Background Workers
+`Python` `OpenCV` `ESP32` `MPU6050` `Flex Sensors`
 
----
+</td>
+</tr>
+</table>
 
-## ✋ Holographic Interface Control (HIC)
+<br/>
 
-Gesture-controlled holographic image manipulation system using computer vision and embedded hardware.
+<!-- ========================= STATS ========================= -->
+## `// github_stats`
 
-**Tech Stack**
+<div align="center">
 
-- Python
-- OpenCV
-- ESP32
-- MPU6050
-- Flex Sensors
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptobitter&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
 
----
+<br/><br/>
 
-# 📊 GitHub Activity
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cryptobitter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptobitter&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d"/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj0806&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com?user=cryptobitter&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d"/>
 
-# 📈 GitHub Stats
+<br/><br/>
 
-<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=cryptobitter&theme=tokyonight&no-frame=true&row=1&column=7&bg_color=0d1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityaraj0806&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj0806&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
+<!-- ========================= TECH STACK ========================= -->
+## `// tech_stack`
 
----
+<div align="center">
 
-# 🔥 GitHub Streak
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,cpp,c,js,react,tailwind,postgres,mysql,sqlite,redis,supabase,docker,git,github,linux,vscode,html,css&theme=dark&perline=10"/>
 
-<p align="center">
+</div>
 
-<img src="https://streak-stats.demolab.com?user=adityaraj0806&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
+<!-- ========================= LEETCODE ========================= -->
+## `// #100DaysOfLeetCode`
 
----
+```
+[✔] Arrays
+[✔] Strings
+[✔] Hash Maps
+[▸] Sliding Window
+[▸] Two Pointers
+[ ] Trees
+[ ] Graphs
+[ ] Dynamic Programming
+```
 
-# 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
+<!-- ========================= CURRENTLY ========================= -->
+## `// currently_working_on`
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaraj0806&theme=tokyonight&no-frame=true&row=1&column=7"/>
+```yaml
+now:
+  - FRACTOES: hardening fracture-detection model & backend
+  - Nayay AI: refining features & deployment
+  - DSA: full revision via #100DaysOfLeetCode
+  - ML: strengthening fundamentals
+  - Architecture: designing scalable backend systems
+```
 
-</p>
+<br/>
 
----
+<!-- ========================= SNAKE ========================= -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/cryptobitter/cryptobitter/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
-# 💻 Tech Stack
+<br/>
 
-<p align="center">
+<!-- ========================= CONNECT ========================= -->
+## `// connect`
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,cpp,c,js,react,tailwind,postgres,mysql,sqlite,redis,supabase,docker,git,github,linux,vscode,html,css&perline=10"/>
+<div align="center">
 
-</p>
-
----
-
-# 💪 #100DaysOfLeetCode
-
-🚀 Solving LeetCode daily to strengthen my understanding of Data Structures & Algorithms.
-
-### Current Roadmap
-
-- ✅ Arrays
-- ✅ Strings
-- ✅ Hash Maps
-- 🔄 Sliding Window
-- 🔄 Two Pointers
-- ⏳ Trees
-- ⏳ Graphs
-- ⏳ Dynamic Programming
-
----
-
-# 🌱 Currently Working On
-
-- 🩻 FRACTOES — AI fracture detection model & backend hardening
-- ⚖️ Nayay AI — refining features & deployment improvements
-- 📚 Full DSA Revision (#100DaysOfLeetCode)
-- 🧠 Machine Learning Fundamentals
-- 🏗️ Scalable Backend Architecture
-
----
-
-# 🎯 Career Goal
-
-My goal is to become a **Backend Software Engineer / AI Engineer**, building scalable, production-ready systems while continuously learning modern backend technologies, cloud infrastructure, and machine learning.
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/adityaraj0806/adityaraj0806/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/adityaraj0806">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/cryptobitter">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d"/>
+</a>
+<a href="https://www.linkedin.com/in/aditya-rajput-245b65395">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9d"/>
+</a>
+<a href="mailto:adityarajput.86046@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9d"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+</div>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<br/>
 
-</p>
+<div align="center">
 
----
+⭐️ **If you like my work, consider starring my repositories!**
 
-<h3 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9d&height=100&section=footer" width="100%"/>
 
-⭐️ If you like my work, consider giving a star to my repositories!
-
-</h3>
+</div>
