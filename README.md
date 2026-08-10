@@ -1,13 +1,13 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9d&height=180&section=header&text=Aditya%20Rajput&fontSize=42&fontColor=00ff9d&fontAlignY=45&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20the%20making&descAlignY=65&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=180&section=header&text=Aditya%20Rajput&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20the%20making&descAlignY=65&descSize=18&descColor=aaaaaa&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%24+whoami;%3E+backend_developer.py;%3E+building_AI_systems();%3E+%23100DaysOfLeetCode+in+progress...;%3E+status%3A+shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%24+whoami;%3E+backend_developer.py;%3E+building_AI_systems();%3E+status%3A+shipping" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=cryptobitter&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=cryptobitter&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=000000"/>
 
 </div>
 
@@ -16,19 +16,15 @@
 <!-- ========================= ABOUT ========================= -->
 ## `// about.sh`
 
-```bash
-$ cat about.txt
-
-Computer Science student focused on Backend Development & Artificial Intelligence.
-I build scalable APIs, work across relational + vector-adjacent data, and ship
-AI-powered applications end-to-end — from model integration to deployment.
-
-Currently deep in a structured #100DaysOfLeetCode challenge while sharpening
-backend architecture and ML fundamentals.
-
-$ echo $CAREER_GOAL
-"Backend Software Engineer → AI Engineer, building production-grade systems."
-```
+> **`$ whoami`**
+>
+> Computer Science student focused on Backend Development & Artificial Intelligence.
+> I build scalable APIs, work across relational databases, and ship AI-powered
+> applications end-to-end — from model integration to deployment.
+>
+> **`$ echo $CAREER_GOAL`**
+>
+> "Backend Software Engineer → AI Engineer, building production-grade systems."
 
 <br/>
 
@@ -78,25 +74,32 @@ $ echo $CAREER_GOAL
 
 <br/>
 
+<!-- ========================= COMMIT SNAKE ========================= -->
+## `// daily_commit_grid`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cryptobitter/cryptobitter/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
 <!-- ========================= STATS ========================= -->
 ## `// github_stats`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptobitter&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cryptobitter&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptobitter&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc"/>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cryptobitter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptobitter&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d"/>
+<img src="https://streak-stats.demolab.com?user=cryptobitter&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=cryptobitter&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=cryptobitter&theme=tokyonight&no-frame=true&row=1&column=7&bg_color=0d1117"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cryptobitter&theme=dark&no-frame=true&row=1&column=7&bg_color=000000"/>
 
 </div>
 
@@ -113,22 +116,6 @@ $ echo $CAREER_GOAL
 
 <br/>
 
-<!-- ========================= LEETCODE ========================= -->
-## `// #100DaysOfLeetCode`
-
-```
-[✔] Arrays
-[✔] Strings
-[✔] Hash Maps
-[▸] Sliding Window
-[▸] Two Pointers
-[ ] Trees
-[ ] Graphs
-[ ] Dynamic Programming
-```
-
-<br/>
-
 <!-- ========================= CURRENTLY ========================= -->
 ## `// currently_working_on`
 
@@ -136,17 +123,10 @@ $ echo $CAREER_GOAL
 now:
   - FRACTOES: hardening fracture-detection model & backend
   - Nayay AI: refining features & deployment
-  - DSA: full revision via #100DaysOfLeetCode
+  - DSA: full revision via daily LeetCode practice
   - ML: strengthening fundamentals
   - Architecture: designing scalable backend systems
 ```
-
-<br/>
-
-<!-- ========================= SNAKE ========================= -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/cryptobitter/cryptobitter/output/github-contribution-grid-snake-dark.svg"/>
-</div>
 
 <br/>
 
@@ -156,13 +136,13 @@ now:
 <div align="center">
 
 <a href="https://github.com/cryptobitter">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 <a href="https://www.linkedin.com/in/aditya-rajput-245b65395">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
 <a href="mailto:adityarajput.86046@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
 
 </div>
@@ -173,6 +153,6 @@ now:
 
 ⭐️ **If you like my work, consider starring my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=100&section=footer" width="100%"/>
 
 </div>
