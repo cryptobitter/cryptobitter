@@ -73,13 +73,27 @@
 </table>
 
 <br/>
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
-<!-- ========================= COMMIT SNAKE ========================= -->
-## ` daily_commit_grid`
+## `contribution_snake`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cryptobitter/cryptobitter/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/cryptobitter/cryptobitter/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/cryptobitter/cryptobitter/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/cryptobitter/cryptobitter/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </div>
 
