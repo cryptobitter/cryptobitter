@@ -1,13 +1,14 @@
 <!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=180&section=header&text=Aditya%20Rajput&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20the%20making&descAlignY=65&descSize=18&descColor=aaaaaa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:164E63&height=180&section=header&text=Aditya%20Rajput&fontSize=42&fontColor=E2E8F0&fontAlignY=45&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20the%20making&descAlignY=65&descSize=18&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%24+whoami;%3E+backend_developer.py;%3E+building_AI_systems();%3E+status%3A+shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%24+whoami;%3E+backend_developer.py;%3E+building_AI_systems();%3E+status%3A+shipping" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=cryptobitter&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=cryptobitter&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge&labelColor=0B1120"/>
 
 </div>
 
