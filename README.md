@@ -122,39 +122,64 @@
 <br/>
 
 <!-- ========================= TECH STACK ========================= -->
-## ` tech_stack`
 
-<div align="center">
+## `tech_stack`
 
-**Frontend**
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&theme=dark&perline=10"/>
+<td width="20%" valign="top" align="center">
 
-<br/><br/>
+### Frontend
 
-**Backend**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,cpp,c&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&perline=5"/>
 
-<br/><br/>
+</td>
 
-**AI / ML**
+<td width="20%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&theme=dark&perline=10"/>
+### Backend
 
-<br/><br/>
+<br/>
 
-**Databases**
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,cpp,c&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&theme=dark&perline=10"/>
+</td>
 
-<br/><br/>
+<td width="20%" valign="top" align="center">
 
-**Tools & Platforms**
+### AI / ML
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark&perline=10"/>
+<br/>
 
-</div>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&perline=4"/>
+
+</td>
+
+<td width="20%" valign="top" align="center">
+
+### Databases
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&perline=5"/>
+
+</td>
+
+<td width="20%" valign="top" align="center">
+
+### Tools
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&perline=5"/>
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
