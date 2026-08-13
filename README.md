@@ -102,23 +102,6 @@
 </div>
 
 <br/>
-<!-- ========================= STATS ========================= -->
-
-## `github_stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cryptobitter&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptobitter&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=E2E8F0"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=cryptobitter&hide_border=true&background=0B1120&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B"/>
-
-</div>
-
-<br/>
 
 <!-- ========================= TECH STACK ========================= -->
 
