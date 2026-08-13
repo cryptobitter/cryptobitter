@@ -103,20 +103,18 @@
 
 <br/>
 <!-- ========================= STATS ========================= -->
-## ` github_stats`
+
+## `github_stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cryptobitter&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptobitter&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cryptobitter&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptobitter&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=E2E8F0"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=cryptobitter&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=cryptobitter&theme=dark&no-frame=true&row=1&column=7&bg_color=000000"/>
+<img src="https://streak-stats.demolab.com?user=cryptobitter&hide_border=true&background=0B1120&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B"/>
 
 </div>
 
