@@ -17,13 +17,13 @@
 <!-- ========================= ABOUT ========================= -->
 ## about me
 
-> **`$ whoami`**
+> 
 >
 > Computer Science student focused on Backend Development & Artificial Intelligence.
 > I build scalable APIs, work across relational databases, and ship AI-powered
 > applications end-to-end — from model integration to deployment.
 >
-> **`$ echo $CAREER_GOAL`**
+> 
 >
 > "Backend Software Engineer → AI Engineer, building production-grade systems."
 
