@@ -114,7 +114,14 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,java,cs,cpp,c&perline=3"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
 </td>
 <td width="25%" valign="top" align="center">
@@ -123,11 +130,15 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&perline=2"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Real--time%20Dashboards-0EA5E9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Real--time_Dashboards-0EA5E9?style=for-the-badge&logoColor=white"/>
 
 </td>
 <td width="25%" valign="top" align="center">
@@ -136,11 +147,15 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask,django,express&perline=3"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logoColor=white"/>
 
 </td>
@@ -150,7 +165,13 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&perline=3"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 </td>
 </tr>
@@ -162,14 +183,17 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&perline=4"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Llama%203.3%2070B-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logoColor=white"/>
 
 </td>
 <td colspan="2" valign="top" align="center">
@@ -178,13 +202,16 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=arduino&perline=1"/>
-
-<br/><br/>
-
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sensor%20Integration-0284C7?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPS%20Integration-16A34A?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MPU6050_IMU-2563EB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flex_Sensors-F59E0B?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hand_Gesture_Detection-7C3AED?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sensor_Integration-0284C7?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GPS_Integration-16A34A?style=for-the-badge&logoColor=white"/>
 
 </td>
 </tr>
@@ -192,11 +219,20 @@
 <tr>
 <td colspan="2" valign="top" align="center">
 
-### DevOps, Tools & Deployment
+### DevOps & Tools
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,postman&perline=4"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </td>
 <td colspan="2" valign="top" align="center">
@@ -207,15 +243,14 @@
 
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 </td>
 </tr>
 </table>
 
 <br/>
-
 
 <!-- ========================= CURRENTLY ========================= -->
 ## `currently_working_on`
