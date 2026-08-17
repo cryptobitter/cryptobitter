@@ -102,6 +102,63 @@
 </div>
 
 <br/>
+
+
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+## `achievements_&_certifications`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏅 Certifications
+
+- **Microsoft Learn — 5 Certifications (2026)**  
+  Core AI · Generative AI · Azure AI Solutions · AI Agent Development · Model Deployment via Microsoft Foundry
+
+- **Walmart Global Tech — Advanced Software Engineering Job Simulation**  
+  Forage · August 2026  
+  Advanced Data Structures · Software Architecture · Relational Database Design · Data Modeling
+
+- **IBM — Data Analysis with Python**  
+  Coursera
+
+- **Anthropic Academy**  
+  Claude 101 · AI Fluency for Students · 2026
+
+- **HackerRank**  
+  REST API (Intermediate) Certification
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Recognition & Community
+
+- **Finalist — BBD Hackathon**
+
+- **Active Member — Code Forge**  
+  Selective builder community focused on collaborative development and technical growth.
+
+- **Nexify ’26 Hackathon — PSIT Representative**  
+  Participated as a **Backend Developer**, working with `Python` and `FastAPI`.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft_Learn-5_Certifications-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-REST_API_Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-AI_%7C_Backend_%7C_Building-38BDF8?style=for-the-badge&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
 <!-- ========================= TECH STACK ========================= -->
 
 ## `tech_stack`
