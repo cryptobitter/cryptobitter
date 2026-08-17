@@ -174,8 +174,6 @@
 </td>
 <td colspan="2" valign="top" align="center">
 
-<td colspan="2" valign="top" align="center">
-
 ### Embedded Systems & IoT
 
 <br/>
@@ -184,18 +182,15 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/MPU6050%20IMU-2563EB?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flex%20Sensors-F59E0B?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Hand%20Gesture%20Detection-7C3AED?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sensor%20Integration-0284C7?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/GPS%20Integration-16A34A?style=for-the-badge&logoColor=white"/>
 
 </td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top" align="center">
 
 ### DevOps, Tools & Deployment
 
