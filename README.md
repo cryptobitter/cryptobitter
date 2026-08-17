@@ -102,64 +102,115 @@
 </div>
 
 <br/>
-
 <!-- ========================= TECH STACK ========================= -->
 
 ## `tech_stack`
 
 <table>
 <tr>
+<td width="25%" valign="top" align="center">
 
-<td width="20%" valign="top" align="center">
+### Languages
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,js,java,cs,cpp,c&perline=3"/>
+
+</td>
+<td width="25%" valign="top" align="center">
 
 ### Frontend
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&perline=5"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&perline=2"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Real--time%20Dashboards-0EA5E9?style=for-the-badge&logoColor=white"/>
 
 </td>
-
-<td width="20%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 ### Backend
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,cpp,c&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask,django,express&perline=3"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logoColor=white"/>
 
 </td>
-
-<td width="20%" valign="top" align="center">
-
-### AI / ML
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&perline=4"/>
-
-</td>
-
-<td width="20%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 ### Databases
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&perline=5"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&perline=3"/>
 
 </td>
+</tr>
 
-<td width="20%" valign="top" align="center">
+<tr>
+<td colspan="2" valign="top" align="center">
 
-### Tools
+### AI / Machine Learning
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&perline=4"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama%203.3%2070B-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logoColor=white"/>
 
 </td>
+<td colspan="2" valign="top" align="center">
 
+### Embedded Systems & IoT
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=arduino&perline=1"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sensor%20Integration-0284C7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPS%20Integration-16A34A?style=for-the-badge&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top" align="center">
+
+### DevOps, Tools & Deployment
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,postman&perline=4"/>
+
+</td>
+<td colspan="2" valign="top" align="center">
+
+### Backend Ecosystem
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+</td>
 </tr>
 </table>
 
