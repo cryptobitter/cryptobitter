@@ -28,6 +28,17 @@
 > "Backend Software Engineer → AI Engineer, building production-grade systems."
 
 <br/>
+## `portfolio`
+
+<div align="center">
+
+<a href="https://github.com/cryptobitter/Portfolio">
+<img src="https://img.shields.io/badge/View_My_Portfolio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=0F172A"/>
+</a>
+
+</div>
+
+<br/>
 
 <!-- ========================= PROJECTS ========================= -->
 ## `featured_projects`
@@ -343,6 +354,9 @@ now:
 <br/>
 
 <div align="center">
+<a href="https://github.com/cryptobitter/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+</a>
 
 ⭐️ **If you like my work, consider starring my repositories!**
 
