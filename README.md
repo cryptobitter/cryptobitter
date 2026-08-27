@@ -40,6 +40,18 @@
 
 <br/>
 
+## `portfolio`
+
+<div align="center">
+
+<a href="https://portfolio-dun-nine-80.vercel.app/">
+<img src="https://img.shields.io/badge/View_My_Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=0F172A"/>
+</a>
+
+</div>
+
+<br/>
+
 <!-- ========================= PROJECTS ========================= -->
 ## `featured_projects`
 
