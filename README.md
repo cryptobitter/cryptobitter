@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+backend_developer.py;%3E+building_AI_systems();%3E+status%3A+shipping" alt="Typing SVG" />
 
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=E2E8F0&center=true&vCenter=true&repeat=false&width=500&lines=Aditya+Rajput" alt="Aditya Rajput"/>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=cryptobitter&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge&labelColor=0B1120"/>
