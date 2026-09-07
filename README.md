@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:164E63&height=180&section=header&text=Aditya%20Rajput&fontSize=42&fontColor=E2E8F0&fontAlignY=45&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20the%20making&descAlignY=65&descSize=18&descColor=94A3B8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:164E63&height=180&section=header&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20the%20making&descAlignY=50&descSize=20&descColor=94A3B8&animation=fadeIn" width="100%"/>
+
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=2500&pause=800&color=E2E8F0&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Aditya+Rajput" alt="Aditya Rajput"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+backend_developer.py;%3E+building_AI_systems();%3E+status%3A+shipping" alt="Typing SVG" />
-
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=E2E8F0&center=true&vCenter=true&repeat=false&width=500&lines=Aditya+Rajput" alt="Aditya Rajput"/>
 
 <br/>
 
